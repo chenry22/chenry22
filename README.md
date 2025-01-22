@@ -22,5 +22,4 @@
 
 Outside of coding (which is most of my life), I love music 🎸, NBA basketball 🏀 (go kings), and content creation 📹. Really I just love to create things, and I love developing new skills or learning to use new tools that help me to create!
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=chenry22&theme=iceberg&mode=weekly)](https://git.io/streak-stats)
  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="chenry22's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=chenry22&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
