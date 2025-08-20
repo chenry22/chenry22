@@ -1,5 +1,5 @@
 ## Hello! 🐈‍⬛
-**I'm Caleb, a CS student currently studying at Washington University in St. Louis!**
+**I'm Caleb, a computer science student currently studying at Washington University in St. Louis!**
 
 *Here are some of my programming strengths:*
 
@@ -30,8 +30,8 @@ Outside of coding (which is most of my life), I love music 🎸, NBA basketball 
 *(Note: The above embed only tracks code from public repositories)*
 
 
-## Here's an overview of some of the projects I've worked on in the past (in reverse-chronological order):
-- [**JamPad**](https://github.com/chenry22/jampad-docs): An iOS app allowing users to discover, save, and share local music events. This product implements Apple's MapKit library through and uses a SwiftUI frontend + Supabase/PostgreSQL 
+## Some projects I've worked on in the past:
+- [**JamPad**](https://linktr.ee/jampadapp): An iOS app allowing users to discover, save, and share local music events. This product implements Apple's MapKit library and uses a SwiftUI frontend + Supabase/PostgreSQL backend
   - ![SwiftUI](https://img.shields.io/badge/SwiftUI-524520?style=for-the-badge&logo=swift&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 - [**Twitter Account Analyzer**](https://github.com/chenry22/twitter-account-analyzer): An Angular frontend allowing users to search for and analyze Twitter accounts and their most relevant posts. The backend interfaces with several HuggingFace models to perform sentiment, toxicity, and topic analysis, then caches this analysis in Fireabase *(Note: The backend is currently not running)*.
   - ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
