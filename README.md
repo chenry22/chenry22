@@ -1,7 +1,11 @@
 ## Hello! 🐈‍⬛
-**I'm Caleb, a computer science student currently studying at Washington University in St. Louis!**
+**I'm Caleb, a software developer and recent graduate from Washington University in St. Louis!**
 
-*Here are some of my programming strengths:*
+If you want a full overview of my many creations and endeavors, [visit my personal website](https://chenry22.github.io/personal_website/index.html)! This is more a brief summary of some of my relevant technical skills.
+
+\-
+
+*The languages I'm most familiar with:*
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -12,7 +16,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
-*And some of the platforms I'm most familiar with:*
+*The platforms I'm most familiar with:*
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
